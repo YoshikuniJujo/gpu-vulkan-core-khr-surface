@@ -21,7 +21,7 @@ module Gpu.Vulkan.Khr.Surface.Core (
 
 	-- * FORMAT
 
-	Format, pattern Format, formatFormat, formatColorSpace
+	Format, pattern Format, formatFormat, formatColorSpace, pattern Format_
 
 	) where
 
